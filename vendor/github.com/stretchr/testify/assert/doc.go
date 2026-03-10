@@ -1,3 +1,6 @@
+// Copyright IBM Corp. 2018, 2020
+// SPDX-License-Identifier: Apache-2.0
+
 // Package assert provides a set of comprehensive testing tools for use with the normal Go testing system.
 //
 // Example Usage

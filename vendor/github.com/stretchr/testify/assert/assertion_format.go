@@ -1,3 +1,6 @@
+// Copyright IBM Corp. 2018, 2020
+// SPDX-License-Identifier: Apache-2.0
+
 /*
 * CODE GENERATED AUTOMATICALLY WITH github.com/stretchr/testify/_codegen
 * THIS FILE MUST NOT BE EDITED BY HAND

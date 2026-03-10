@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2018, 2020
+# SPDX-License-Identifier: Apache-2.0
+
 FROM ubuntu:16.04
 
 ARG DCGM_VERSION
