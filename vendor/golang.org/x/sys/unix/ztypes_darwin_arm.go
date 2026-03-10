@@ -1,3 +1,6 @@
+// Copyright IBM Corp. 2018, 2020
+// SPDX-License-Identifier: Apache-2.0
+
 // NOTE: cgo can't generate struct Stat_t and struct Statfs_t yet
 // Created by cgo -godefs - DO NOT EDIT
 // cgo -godefs types_darwin.go

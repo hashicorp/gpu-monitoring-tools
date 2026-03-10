@@ -1,3 +1,6 @@
+// Copyright IBM Corp. 2018, 2020
+// SPDX-License-Identifier: Apache-2.0
+
 /*
 Package logrus is a structured logger for Go, completely API compatible with the standard library logger.
 

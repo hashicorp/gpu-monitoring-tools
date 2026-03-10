@@ -1,3 +1,6 @@
+// Copyright IBM Corp. 2018, 2020
+// SPDX-License-Identifier: Apache-2.0
+
 // Package require implements the same assertions as the `assert` package but
 // stops test execution when a test fails.
 //

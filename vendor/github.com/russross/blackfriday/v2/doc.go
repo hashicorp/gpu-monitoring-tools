@@ -1,3 +1,6 @@
+// Copyright IBM Corp. 2018, 2020
+// SPDX-License-Identifier: Apache-2.0
+
 // Package blackfriday is a markdown processor.
 //
 // It translates plain text with simple formatting rules into an AST, which can

@@ -1,3 +1,6 @@
+// Copyright IBM Corp. 2018, 2020
+// SPDX-License-Identifier: Apache-2.0
+
 package jsoniter
 
 // ReadArray read array element, tells if the array has more element to read.
